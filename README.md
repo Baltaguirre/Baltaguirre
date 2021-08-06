@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  #![GitHub Logo](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4728fb0ge4jcvmtjfki2oz8xrl1lknn0t54antdzrm&rid=giphy.gif&ct=g)
+  ![GitHub Logo](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4728fb0ge4jcvmtjfki2oz8xrl1lknn0t54antdzrm&rid=giphy.gif&ct=g)
 
 #----------------------------------------------------------------------------------                        
  Te cuento un poco sobre mí :
@@ -38,5 +38,5 @@ Aqui abajo puedes ver mis **stats**! ⚡ ⚡
 
 [![Baltasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltaguirre&show_icons=true&count_private=true&theme=dark)](https://github.com/baltaguirre/github-readme-stats)
 
-
+[api/top-langs?username=baltaguirre]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baltaguirre&layout=compact)](https://github.com/baltaguirre/github-readme-stats)
