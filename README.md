@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                        #![GitHub Logo](/utils/tumblr_m362o48jiV1qi0ofuo1_500.gif)
+  #![GitHub Logo](/utils/tumblr_m362o48jiV1qi0ofuo1_500.gif)
 
 #----------------------------------------------------------------------------------                        
 Hola!🙋‍♂️ ¿Cómo estas? Espero que super bien!😁 te cuento un poco sobre mí :
