@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   #![GitHub Logo](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4728fb0ge4jcvmtjfki2oz8xrl1lknn0t54antdzrm&rid=giphy.gif&ct=g)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baltaguirre&repo=github-readme-stats)](https://github.com/baltaguirre/github-readme-stats)
+
 #----------------------------------------------------------------------------------                        
  Te cuento un poco sobre mí :
 
