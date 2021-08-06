@@ -33,4 +33,5 @@ Si te interesa mi perfil, no dudes en contactarme!
 
 Te dejo un gran saludo y que tengas un bonito día. 😊
 
+Aqui abajo puedes ver mis **stats**! ⚡ ⚡ 
 [![Baltasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltaguirre&show_icons=true)](https://github.com/baltaguirre/github-readme-stats)
