@@ -36,4 +36,4 @@ Te dejo un gran saludo y que tengas un bonito día. 😊
 Aqui abajo puedes ver mis **stats**! ⚡ ⚡ 
 
 
-[![Baltasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltaguirre&show_icons=true&count_private=true)](https://github.com/baltaguirre/github-readme-stats)
+[![Baltasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltaguirre&show_icons=true&count_private=true&theme=radical)](https://github.com/baltaguirre/github-readme-stats)
