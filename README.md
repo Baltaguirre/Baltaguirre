@@ -39,4 +39,3 @@ Aqui abajo puedes ver mis **stats**! ⚡ ⚡
 [![Baltasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltaguirre&show_icons=true&count_private=true&theme=dark)](https://github.com/baltaguirre/github-readme-stats)
 
 
-[!api/top-langs?username=baltaguirre(https://github-readme-stats.vercel.app/api/top-langs/?username=baltaguirre&layout=compact)](https://github.com/baltaguirre/github-readme-stats)
