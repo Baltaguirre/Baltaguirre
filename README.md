@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#![GitHub Logo](/utils/tumblr_m362o48jiV1qi0ofuo1_500.gif)
+                        #![GitHub Logo](/utils/tumblr_m362o48jiV1qi0ofuo1_500.gif)
+
+#----------------------------------------------------------------------------------                        
 Hola!🙋‍♂️ ¿Cómo estas? Espero que super bien!😁 te cuento un poco sobre mí :
 
 Soy una persona **proactiva**, me encantan los **desafíos** y hallar **soluciones** a cuanto **problema** se me cruce. Archimega curioso por naturaleza, estoy en constante crecimiento buscando siempre aprender un poco más, tanto acerca de aquello que me apasiona (el mundo IT, la programación y el desarrollo 💻) como de cualquier otra cosa que sume un granito más a mi conocimiento (arte, historia, ciencia, lo que sea!.)🤓
