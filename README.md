@@ -1,4 +1,4 @@
-### Hola!🙋‍♂️ ¿Cómo estas? Espero que super bien!😁 Bienvenidx a mi Github!
+### Hi there! 🙋‍♂️ How are you? I hope it's super good! 😁 Let me tell you a little about myself:
 
 <!--
 **Baltaguirre/Baltaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,23 +17,22 @@ Here are some ideas to get you started:
   ![GitHub Logo](https://cdn.pixilart.com/photos/orginal/e9d076daf1e8bba.gif)
 
 #----------------------------------------------------------------------------------                        
- Te cuento un poco sobre mí :
+ 
 
-Soy una persona **proactiva**, me encantan los **desafíos** y hallar **soluciones** a cuanto **problema** se me cruce. Archimega curioso por naturaleza, estoy en constante crecimiento buscando siempre aprender un poco más, tanto acerca de aquello que me apasiona (el mundo IT, la programación y el desarrollo 💻) como de cualquier otra cosa que sume un granito más a mi conocimiento (arte, historia, ciencia, lo que sea!)🤓
+Who I am? 
+A developer looking to reach his full potential within the IT world. I really enjoy teamwork, collaborating with others, learning, teaching (to the best of my ability) and I always try to go one step further. Curious, restless, lover of challenges and continuous knowledge and growth. 
 
-Fanático de la literatura 📗(sobre todo relatos breves, son mi perdición!), del cine y el idioma inglés.
+What is my experience? 
+I did Henry's Bootcamp, in which I learned and consolidated a stack of technologies such as: Javascript, Node, React & Redux, React Native, PostgreSQL. I carried out an individual project that consisted of the development of a Single Page Application that consumes data from an external API and a local database applying the aforementioned technologies. 
+Regarding the final work, I was part of a large working group to carry out an E-Commerce for a craft beer manufacturer in my province. The project was carried out using the MERN Stack and under the Scrum modality. 
 
-En mis ratos libres, me gusta mucho leer, ver películas🎬 y, si el clima lo amerita, salir a caminar por la ciudad, aunque si existe la posibilidad de una escapada a las sierras, lo prefiero mucho más. También disfruto mucho pasar el tiempo con mi familia y amigos, juntarnos los fines de semana a comer, charlar y pasear  👨‍👩‍👦.
 
-Amo a los animales, compartir un momento con ellos cada día, ya sea a dar una vuelta o jugar un rato en el patio, son mi cable a tierra, los mejores terapeutas! 🐶🐱
+Things that I like? Spending time with my family and friends, literature and cinema, learning a little of everything: art, science, history, philosophy. Animals are my weakness, my ground wire, I really enjoy their company and their presence. 
 
-Respecto al trabajo, me encantan los equipos, colaborar con otros, enseñar y aprender, ayudar, proponer y mejorar día a día.
+If you are interested in my profile, do not hesitate to contact me! 
 
-Si te interesa mi perfil, no dudes en contactarme!
-
-Te dejo un gran saludo y que tengas un bonito día. 😊
-
-Aqui abajo puedes ver mis **stats**! ⚡ ⚡ 
+I leave you a big greeting and have a nice day. 😊
+Downhere are my **stats**! ⚡ ⚡ 
 
 
 [![Baltasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltaguirre&show_icons=true&count_private=true&theme=dark)](https://github.com/baltaguirre/github-readme-stats)
