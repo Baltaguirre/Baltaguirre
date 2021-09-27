@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![GitHub Logo](https://cdn.pixilart.com/photos/orginal/e9d076daf1e8bba.gif)
+  ![GitHub Logo](https://github.com/Baltaguirre/Baltaguirre/blob/main/utils/pixil-gif-drawing%20FINAL.gif?raw=true)
 
 #----------------------------------------------------------------------------------                        
  
