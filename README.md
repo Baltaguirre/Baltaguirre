@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 
 Who I am? 
-A developer looking to reach his full potential within the IT world. I really enjoy teamwork, collaborating with others, learning, teaching (to the best of my ability) and I always try to go one step further. Curious, restless, lover of challenges and continuous knowledge and growth. 
+A developer looking to reach his full potential within the IT world. I really enjoy teamwork, collaborating with others, learning, sharing my knowledge, and I always try to go one step further. Curious, restless, lover of challenges and continuous knowledge and growth. 
 
 What is my experience? 
 I did Henry's Bootcamp, in which I learned and consolidated a stack of technologies such as: Javascript, Node, React & Redux, React Native, PostgreSQL. I carried out an individual project that consisted of the development of a Single Page Application that consumes data from an external API and a local database applying the aforementioned technologies. 
