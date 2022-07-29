@@ -1,4 +1,4 @@
-### Hi there! 👨‍🚀 How are you? I hope it's super good! 😁 
+### Hi there! 👨‍🚀
 
 <!--
 **Baltaguirre/Baltaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
